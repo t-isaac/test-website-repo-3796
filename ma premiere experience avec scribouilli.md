@@ -38,10 +38,12 @@ Une autre limite que je vois pour un blog, c'est que je crains que le menu soit 
 
 ## Bug ?
 
-Je ne sais pas si j'ai rencontré un bug. Je n'en rencontre pas souvent alors je ne suis pas certain de ce à quoi ils ressemblent mais j'ai eu droit à un **Oups il y a peut-être un souci** plutôt que le plus rassurant message **Site à jour** après avoir cliquer sur _Lancer la publication_. Malheureusement ou pas, je n'ai pas réussi à reproduire ce comportement par la suite. Je ne peux donc pas faire un retour vraiment utile à l'équipe derrière Scribouilli.
+Je ne sais pas si j'ai rencontré un bug. Je n'en rencontre pas souvent alors je ne suis pas certain de ce à quoi ils ressemblent mais j'ai eu droit à un **Oups il y a peut-être un souci** plutôt que le plus rassurant message **Site à jour** après avoir cliquer sur _Lancer la publication_. Malheureusement ou pas, je n'ai pas réussi à reproduire ce comportement par la suite. Je ne peux donc pas faire un retour vraiment utile à l'équipe derrière Scribouilli. GitHub me dit de son côté 
+**build** Canceling since a higher priority waiting request for 'pages build and deployment @ main' exists
+
 
 ## Image
 
 Il est même prévu de pouvoir insérer des images dans son site. Un dossier a même été créer dans GitHub pour cela. Ce qui me permet de tenter de mettre une image dans ce texte :
 
-![Intérieur de la gare d'Aachen](AachenMainStationInsideViewHDR.jpg)
+![Intérieur de la gare d'Aachen](https://github.com/t-isaac/test-website-repo-3796/blob/main/images/AachenMainStationInsideViewHDR.jpg)
