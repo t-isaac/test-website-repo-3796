@@ -46,4 +46,4 @@ Je ne sais pas si j'ai rencontré un bug. Je n'en rencontre pas souvent alors je
 
 Il est même prévu de pouvoir insérer des images dans son site. Un dossier a même été créer dans GitHub pour cela. Ce qui me permet de tenter de mettre une image dans ce texte :
 
-![Intérieur de la gare d'Aachen](https://github.com/t-isaac/test-website-repo-3796/blob/cddf54e2a000a06ab8111a187c58428572bddbbe/images/AachenMainStationInsideViewHDR.jpg)
+![Intérieur de la gare d'Aachen](images/AachenMainStationInsideViewHDR.jpg)
