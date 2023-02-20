@@ -1,6 +1,6 @@
 ---
 title: Contact
 ---
-L'Échappée Belle est actuellement composée de 5 membres.
+tisaac est actuellement composé de 1 membre ou 4 ou 5 selon comment on compte.
 
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
+Pour le contacter : [peut-être que c'est possible là](https://piaille.fr/@tisaac)
