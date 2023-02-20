@@ -35,3 +35,7 @@ Ensuite, la démo visitée, je me suis penché sur la possibilité de modifier l
 Ce n'est pas compliqué de modifier le site mais on rencontre une première limitation. Quand on modifie une page on a le droit de choisir entre _Retour_ (et on perd tout) et _Lancer la publication (~ 2 min)_ (et d'attendre ~ 2 minutes). Première conclusion: si l'on profite chaque fois des deux minutes pour chanter une petite chanson, il va falloir un large répertoire (en même temps, à ce moment là, on ne vous invite pas à réaliser cette action). Deuxième conclusion: si vous n'écrivez pas d'une traite votre page, vous publierez une page en chantier sans forcément que vos lecteurices ne reçoivent de message les avertissant qu'il s'agit d'un travail en progrès.
 
 Une autre limite que je vois pour un blog, c'est que je crains que le menu soit vite illisible si l'on crée une page pour chaque nouveau billet. Scribouilli semble comme annoncé prévu pour un site de quelques pages et pas vraiment plus.
+
+# Bug ?
+
+Je ne sais pas si j'ai rencontré un bug. Je n'en rencontre pas souvent alors je ne suis pas certain de ce à quoi ils ressemblent mais j'ai eu droit à un **Oups il y a peut-être un souci** plutôt que le plus rassurant message **Site à jour** après avoir cliquer sur _Lancer la publication_.
