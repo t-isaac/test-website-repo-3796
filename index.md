@@ -1,6 +1,10 @@
 ---
 title: Accueil
 ---
-# L'Échappée Belle
+# Le blog de tisaac
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Comme beaucoup, tisaac possède une personnalité à multiples facettes. 
+Il ne sait pas encore très bien quelles facettes il veut mettre en avant.
+Ceci est son blog. Avec le temps, son positionnement se précisera peut-être ou pas.
+
+Blog ? Bien grand mot. Disons que cela le deviendra peut-être vraiment ou pas. On verra.
