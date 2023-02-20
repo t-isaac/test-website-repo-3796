@@ -51,3 +51,9 @@ Il est même prévu de pouvoir insérer des images dans son site. Un dossier a m
 Je vous laisse chercher le lien entre cette image et ce texte de blog. En parlant de lien, je dois avouer que j'ai eu un peu de mal à trouver le bon lien à insérer mais je pense que j'ai compris que ce n'est pas l'adresse que je trouve dans la barre de mon navigateur ni le permalink mais plutôt le _path_ du _Copy path_.
 
 Un jour, je me demanderai s'il est possible avec markdown de modifier la taille de l'image. Pour ce soir, on se réjouira déjà de ce que l'on a.
+
+## En guise de conclusion
+
+Si vous avez besoin d'un petit site et que vous n'avez pas peur d'avoir une adresse de site un peu bizarre (mais peut-être qu'en achetant un nom de domaine vous pourrez le lier à votre site nouvellement créé), Scribouilli semble un outil simple et efficace (même s'il n'est qu'en version beta pour le moment).
+
+Merci aux personnes qui l'on créé !
