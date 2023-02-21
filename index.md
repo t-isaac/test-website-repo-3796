@@ -1,7 +1,7 @@
 ---
 title: Accueil
 ---
-## Le blog de tisaac
+# Le blog de tisaac
 
 Comme beaucoup, tisaac possède une personnalité à multiples facettes. 
 Il ne sait pas encore très bien quelles facettes il veut mettre en avant.
