@@ -34,7 +34,7 @@ Les déplacements domicile-travail représente près de 20% de tous les déplace
 
 Bien que le mode de transmission du Covid-19 ne soit pas parfaitement connu, il est admis que se trouver nombreux dans un lieu fermé favorise la transmission du virus. Raison pour laquelle le gouvernement a invité au départ de crise la population à éviter dans la mesure du possible les transports publics et que les transports en commun ont été un des premiers lieux dans lequel le port du masque a été instauré.
 
-Un risque existe qu'une peur des transports en commun persiste sur le long terme. Cela entraînerait naturellement une baisse de fréquentation des transports publics. On voit bien à travers leur campagne commune que c'est en partie l'analyse des sociétés de transport public en Belgique.
+Un risque existe qu'une peur des transports en commun persiste sur le long terme. Cela entraînerait naturellement une baisse de fréquentation des transports publics. On voit bien à travers [leur campagne commune](https://www.lecho.be/entreprises/transport/les-transports-en-commun-obliges-de-regagner-la-confiance/10251663.html) que c'est en partie l'analyse des sociétés de transport public en Belgique.
 
 ## L'anti-shift modal
 
