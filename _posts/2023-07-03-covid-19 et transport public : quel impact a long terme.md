@@ -1,5 +1,5 @@
 ---
-title: Covid-19 et transport public : quel impact à long terme
+title: Covid-19 et transport public quel impact à long terme
 ---
 _Article publié initialement sur une autre plateforme en septembre 2020_
 
