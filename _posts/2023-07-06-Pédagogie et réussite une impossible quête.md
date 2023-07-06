@@ -1,7 +1,7 @@
 ---
 title: Pédagogie et réussite une impossible quête
 ---
-_Article initialement publié sur une autre plateforme en janvier 2020_
+_Article initialement publié sur une autre plateforme en janvier 2022_
 
 ![Auditoire](https://github.com/t-isaac/test-website-repo-3796/blob/main/images/Auditoire.jpeg?raw=true)
 
