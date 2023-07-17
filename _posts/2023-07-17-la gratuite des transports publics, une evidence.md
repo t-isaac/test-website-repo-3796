@@ -1,7 +1,7 @@
 ---
 title: La gratuité des transports publics, une évidence
 ---
-![Portique d'accès au métro bruxellois]!(https://github.com/t-isaac/test-website-repo-3796/blob/main/images/portique%20acc%C3%A8s%20m%C3%A9tro.jpeg?raw=true)
+![Portique d'accès au métro bruxellois](https://github.com/t-isaac/test-website-repo-3796/blob/main/images/portique%20acc%C3%A8s%20m%C3%A9tro.jpeg?raw=true)
 _Par Stephane Mignon — Flickr: Portillons d'accès et de sortie, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=24649179_
 
 _Cet article a été publié précédemment sur une autre plateforme en juin 2022_
