@@ -1,10 +1,10 @@
 ---
 title: La gratuité des transports publics, une évidence
 ---
+_Cet article a été publié précédemment sur une autre plateforme en juin 2022_
+
 ![Portique d'accès au métro bruxellois](https://github.com/t-isaac/test-website-repo-3796/blob/main/images/portique%20acc%C3%A8s%20m%C3%A9tro.jpeg?raw=true)
 _Par Stephane Mignon — Flickr: Portillons d'accès et de sortie, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=24649179_
-
-_Cet article a été publié précédemment sur une autre plateforme en juin 2022_
 
 Ces derniers temps revient au premier plan le lancinant débat autour de la gratuité des transports en commun. Mesure par rapport à laquelle j'ai une tendance agnostique forte avec un léger penchant à la trouver plutôt sympathique. Parce qu'il est toujours intéressant de penser contre soi et dans la logique des [chapeaux de Bono](https://www.reseautransition.be/articles/les-six-chapeaux-de-bono/), je vais ici adopter le chapeau noir c'est-à-dire celui qui voit les risques et les raisons faisant que cela n'est pas une bonne idée.
 
