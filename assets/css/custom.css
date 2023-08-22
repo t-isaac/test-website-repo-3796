@@ -1,9 +1,3 @@
 :root {
         --couleur-primaire : #0E6270;
     }
-
-.skip-links {
-  position: absolute;
-  transform: translateY(1%);
-  color: red;
-}
