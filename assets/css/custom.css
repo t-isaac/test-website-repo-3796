@@ -18,9 +18,10 @@ hr, article.blog-item > a {
   text-decoration: underline;
   transition: 0.1s;
 }
-/* agrandir les titres quand on passe dessus avec la souris */
+/* agrandir les titres quand on passe dessus avec la souris + élargir la ligne qui souligne */
 .blog-item h2 a:hover {
   font-size: 1.5rem;
+  --underline-hover-width: var(--underline-max-width);
 }
 /* changer la couleur d'un titre quand il a déjà été visité */
 .blog-item h2 a:visited {
