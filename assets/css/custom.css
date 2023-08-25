@@ -1,3 +1,8 @@
 :root {
         --couleur-primaire : #07357d;
     }
+
+header ul {
+  flex-direction: row-reverse;
+}
+
