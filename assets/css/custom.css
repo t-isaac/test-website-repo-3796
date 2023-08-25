@@ -29,11 +29,7 @@ hr, article.blog-item > a {
 
 
 /* réduire l'espacement entre les titres d'articles */
-.blog-item {
-  margin-top: 0rem;
-  margin-bottom: 0rem;
-}
-.blog-item h2 {
+.blog-item, .blog-item h2 {
   margin-top: 0rem;
   margin-bottom: 0rem;
 }
