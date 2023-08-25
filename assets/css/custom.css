@@ -16,7 +16,7 @@ hr, article.blog-item > a {
 .blog-item h2 a {
   font-size: 1.25rem;
   text-decoration: underline;
-  transition: 0.5s;
+  transition: 0.1s;
 }
 /* agrandir les titres quand on passe dessus avec la souris */
 .blog-item h2 a:hover {
