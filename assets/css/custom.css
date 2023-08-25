@@ -12,10 +12,11 @@ hr, article.blog-item > a {
   display: none;
 }
 
-/* diminuer la taille des titres d'articles + les souligner */
+/* diminuer la taille des titres d'articles + les souligner + prévoir une transition quand on passe avec la souris sur un titre*/
 .blog-item h2 a {
   font-size: 1.25rem;
   text-decoration: underline;
+  transition: 0.5s;
 }
 /* agrandir les titres quand on passe dessus avec la souris */
 .blog-item h2 a:hover {
