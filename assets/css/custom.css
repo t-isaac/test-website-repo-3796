@@ -10,3 +10,8 @@ hr, article.blog-item > a {
   display: none
 }
 
+.blog-item h2 a {
+  font-size: 1.25rem
+  text-decoration: underline: none;
+}
+
