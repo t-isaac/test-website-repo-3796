@@ -2,16 +2,28 @@
         --couleur-primaire : #07357d;
     }
 
+/* pour inverser Accueil et Articles */
 header ul {
   flex-direction: row-reverse;
 }
 
+/* Sur la page article, effacer les ligne de séparation et les Lire l'article */
 hr, article.blog-item > a {
   display: none;
 }
 
+/* diminuer la taille des titres d'articles + les souligner */
 .blog-item h2 a {
   font-size: 1.25rem;
   text-decoration: underline;
+}
+/* agrandir les titres quand on passe dessus avec la souris */
+.blog-item h2 a {
+  font-size: 1.5rem;
+}
+
+.blog-item {
+  margin-top: 0rem;
+  margin-bottom: 0rem;
 }
 
