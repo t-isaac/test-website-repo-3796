@@ -22,6 +22,11 @@ hr, article.blog-item > a {
 .blog-item h2 a:hover {
   font-size: 1.5rem;
 }
+/* changer la couleur d'un titre quand il a déjà été visité */
+.blog-item h2 a:visited {
+  color: silver;
+}
+
 
 /* réduire l'espacement entre les titres d'articles */
 .blog-item {
