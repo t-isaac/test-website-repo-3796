@@ -3,6 +3,7 @@
 }
 
 svg {
+   fill: var(--couleur-primaire);
    stroke: var(--couleur-primaire);
 }
 
