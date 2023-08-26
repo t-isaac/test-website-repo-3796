@@ -5,6 +5,7 @@ order: 1
 # Le blog de tisaac
 
 
+<div id="grid">
 <div id="debut">
 Comme beaucoup, tisaac possède une personnalité à multiples facettes. 
 Il ne sait pas encore très bien quelles facettes il veut mettre en avant.
@@ -70,4 +71,5 @@ Ceci est son blog. Avec le temps, son positionnement se précisera peut-être ou
 
 <div id="fin">
 Je ne sais pas quoi écrire ici mais c'est important pour voir comment cela se traduite dans le code html. 
+</div> 
 </div> 
