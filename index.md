@@ -18,9 +18,7 @@ Ceci est son blog. Avec le temps, son positionnement se précisera peut-être ou
    viewBox="0 0 612 792"
    style="enable-background:new 0 0 612 792;"
    xml:space="preserve"
-   id="voilier"
-   bordercolor="red"
-   borderopacity="1.0">
+   >
 <g
    id="g254">
 	<path
