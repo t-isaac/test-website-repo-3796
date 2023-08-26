@@ -2,9 +2,6 @@
         --couleur-primaire : #07357d;
     }
 
-svg {
-  stroke: var(--couleur-primaire);
-}
 
 /* pour inverser Accueil et Articles */
 header ul {
