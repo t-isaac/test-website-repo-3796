@@ -2,6 +2,10 @@
         --couleur-primaire : #07357d;
     }
 
+svg {
+  color: --couleur-primaire
+}
+
 /* pour inverser Accueil et Articles */
 header ul {
   flex-direction: row-reverse;
