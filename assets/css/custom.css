@@ -19,9 +19,9 @@ div.container {
   div.container{
       background-size: 40%; }
 }
-@media only screen and (max-width:300px) and (min-width:200px) {
+@media only screen and (max-width:300px) and (min-width:250px) {
   div.container{
-      background-size: 30%; }
+      background-size: 25%; }
 }
 
 
