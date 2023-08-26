@@ -19,7 +19,11 @@ div.container {
   div.container{
       background-size: 40%; }
 }
-@media only screen and (max-width:300px) and (min-width:230px) {
+@media only screen and (max-width:300px) and (min-width:260px) {
+  div.container{
+      background-size: 35%; }
+}
+@media only screen and (max-width:260px) and (min-width:230px) {
   div.container{
       background-size: 25%; }
 }
@@ -36,10 +40,7 @@ header ul {
    margin-left: 0rem;
 }
 
-#fin {
-   grid-column: span 1;
-   grid-row: span 1
-}
+
 
 
 
