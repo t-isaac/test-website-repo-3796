@@ -10,7 +10,7 @@ Ceci est son blog. Avec le temps, son positionnement se précisera peut-être ou
 
 <svg
    version="1.1"
-   id="Layer_1"
+   id="Voilier"
    x="0px"
    y="0px"
    width="408px"
