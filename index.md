@@ -62,5 +62,7 @@ Ceci est son blog. Avec le temps, son positionnement se précisera peut-être ou
    d="M172.286,760.921c7.832-0.387,15.394-0.759,22.958-1.133   c0.052,0.25,0.103,0.501,0.153,0.75c-3.838,1.411-7.788,2.727-11.892,2.854C179.806,763.507,175.646,765.117,172.286,760.921z"
    id="path26" />
 
+Je ne sais pas quoi écrire ici mais c'est important pour voir comment cela se traduite dans le code html.
+
 </g>
 </svg> 
