@@ -13,6 +13,15 @@ header ul {
   flex-direction: row-reverse;
 }
 
+
+/* page d'accueil */
+#grid {
+   display: grid;
+   grid-template-columns: repeat(auro-fit, minmax(300px, 1fr));
+}
+
+
+
 /* Sur la page article, effacer les ligne de séparation et les Lire l'article */
 hr, article.blog-item > a {
   display: none;
