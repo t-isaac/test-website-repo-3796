@@ -19,6 +19,19 @@ header ul {
    display: grid;
    grid-template-columns: repeat(auro-fit, minmax(300px, 1fr));
 }
+#debut {
+   grid-column: span 1;
+   grid-row: span 1;
+}
+#Voilier {
+   grid-column: span 1;
+   grid-row: span 2;
+}
+#fin {
+   grid-column: span 1;
+   grid-row: span 1
+}
+
 
 
 
