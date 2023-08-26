@@ -21,7 +21,7 @@ Ceci est son blog. Avec le temps, son positionnement se précisera peut-être ou
    id="voilier"
    pagecolor="#ffffff"
    bordercolor="#666666"
-   borderopacity="1.0"
+   borderopacity="1.0">
 <g
    id="g254">
 	<path
