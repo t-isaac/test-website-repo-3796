@@ -17,7 +17,6 @@ Ceci est son blog. Avec le temps, son positionnement se précisera peut-être ou
    height="528px"
    viewBox="0 0 612 792"
    style="enable-background:new 0 0 612 792;"
-   stroke="--couleur-primaire"
    xml:space="preserve"
    >
 <g
