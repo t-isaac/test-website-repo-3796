@@ -2,10 +2,17 @@
         --couleur-primaire : #07357d;
 }
 
+/* pour le Voilier soit de la couleur du thème */
 svg {
    fill: var(--couleur-primaire);
    stroke: var(--couleur-primaire);
 }
+
+/* Le "logo" */
+header {
+   background-image: url(https://raw.githubusercontent.com/t-isaac/test-website-repo-3796/ca0c69883f9e42cb11f8649d1f07f570995e85e3/images/dessin.svg);
+}
+
 
 
 /* pour inverser Accueil et Articles */
