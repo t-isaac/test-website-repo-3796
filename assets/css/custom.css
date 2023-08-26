@@ -3,7 +3,7 @@
     }
 
 svg {
-  stroke: --couleur-primaire;
+  stroke: var(--couleur-primaire);
 }
 
 /* pour inverser Accueil et Articles */
