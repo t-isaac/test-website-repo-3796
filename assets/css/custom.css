@@ -1,6 +1,10 @@
 :root {
         --couleur-primaire : #07357d;
-    }
+}
+
+svg {
+   stroke: --couleur-primaire;
+}
 
 
 /* pour inverser Accueil et Articles */
