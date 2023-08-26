@@ -19,8 +19,8 @@ Ceci est son blog. Avec le temps, son positionnement se précisera peut-être ou
    style="enable-background:new 0 0 612 792;"
    xml:space="preserve"
    id="voilier"
-   pagecolor="#ffffff"
-   bordercolor="#666666"
+   pagecolor= --couleur-primaire
+   bordercolor= --couleur-primaire
    borderopacity="1.0">
 <g
    id="g254">
