@@ -3,7 +3,7 @@
     }
 
 svg {
-  color: --couleur-primaire
+  color: --couleur-primaire;
 }
 
 /* pour inverser Accueil et Articles */
