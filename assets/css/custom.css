@@ -13,20 +13,11 @@ header ul {
   flex-direction: row-reverse;
 }
 
-
-/* page d'accueil */
-#grid {
-   display: grid;
-   grid-columns: 2;
-}
-#debut {
-   grid-column: span 1;
-   grid-row: span 1;
-}
 #Voilier {
-   grid-column: span 1;
-   grid-row: span 2;
+   float: right;
+   margin-left: 10rem;
 }
+
 #fin {
    grid-column: span 1;
    grid-row: span 1
