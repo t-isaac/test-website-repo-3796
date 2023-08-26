@@ -17,7 +17,7 @@ header ul {
 /* page d'accueil */
 #grid {
    display: grid;
-   grid-template-columns: repeat(auro-fit, minmax(300px, 1fr));
+   grid-columns: 2;
 }
 #debut {
    grid-column: span 1;
