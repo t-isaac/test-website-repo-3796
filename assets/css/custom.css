@@ -40,11 +40,11 @@ header ul {
 /* des classe qui permettent d'aligner à gauche, au centre ou à droite des images (a priori) */
 .GG {
    float: left;
-   margin-right: 10rem;
+   margin-right: 5rem;
 }
 .DD {
    float: right;
-   margin-left: 10rem;
+   margin-left: 5rem;
 }
 .CC {
    float: center;
