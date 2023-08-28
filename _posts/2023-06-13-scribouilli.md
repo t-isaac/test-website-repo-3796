@@ -46,7 +46,7 @@ Je ne sais pas si j'ai rencontré un bug. Je n'en rencontre pas souvent alors je
 
 Il est même prévu de pouvoir insérer des images dans son site. Un dossier a même été créer dans GitHub pour cela. Ce qui me permet de tenter de mettre une image (dans le domaine public, trouvée sur [Wikipédia](https://commons.wikimedia.org/wiki/File:AachenMainStationInsideViewHDR.jpg)) dans ce texte :
 
-<img  src="https://raw.githubusercontent.com/t-isaac/test-website-repo-3796/main/images/AachenMainStationInsideViewHDR.jpg" alt="Intérieur de la gare d'Aachen" title="Titre">
+<img  class="GG" src="https://raw.githubusercontent.com/t-isaac/test-website-repo-3796/main/images/AachenMainStationInsideViewHDR.jpg" alt="Intérieur de la gare d'Aachen" title="Titre">
 
 Je vous laisse chercher le lien entre cette image et ce texte de blog. En parlant de lien, je dois avouer que j'ai eu un peu de mal à trouver le bon lien à insérer mais je pense que j'ai compris que ce n'est pas l'adresse que je trouve dans la barre de mon navigateur ni le permalink mais plutôt le _path_ du _Copy path_.
 
