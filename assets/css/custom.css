@@ -40,14 +40,14 @@ header ul {
 /* des classe qui permettent d'aligner à gauche, au centre ou à droite des images (a priori) avec ou sans le caractère flottant*/
 .GF {
    float: left;
-   margin-right: 0rem;
+   margin-right: 3rem;
 }
 .GNF {
    text-align: left;
 }
 .DF {
    float: right;
-   margin-left: 0rem;
+   margin-left: 3rem;
 }
 .DNF {
    text-align: right;
