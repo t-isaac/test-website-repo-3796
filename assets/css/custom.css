@@ -32,21 +32,32 @@ div.container {
       background-size: 25%; }
 }
 
-
-
 /* pour inverser Accueil et Articles */
 header ul {
   flex-direction: row-reverse;
 }
 
-#Voilier {
+/* des classe qui permettent d'aligner à gauche, au centre ou à droite des images (a priori) */
+.GG {
    float: left;
-   margin-left: 0rem;
+   margin-right: 10rem;
+}
+.DD {
+   float: right;
+   margin-left: 10rem;
+}
+.CC {
+   float: center;
+   margin: 5rem;
 }
 
 
 
 
+#Voilier {
+   float: left;
+   margin-left: 0rem;
+}
 
 
 /* Sur la page article, effacer les ligne de séparation et les Lire l'article */
