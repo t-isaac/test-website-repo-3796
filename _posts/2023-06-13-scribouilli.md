@@ -46,14 +46,15 @@ Je ne sais pas si j'ai rencontré un bug. Je n'en rencontre pas souvent alors je
 
 Il est même prévu de pouvoir insérer des images dans son site. Un dossier a même été créer dans GitHub pour cela. Ce qui me permet de tenter de mettre une image (dans le domaine public, trouvée sur [Wikipédia](https://commons.wikimedia.org/wiki/File:AachenMainStationInsideViewHDR.jpg)) dans ce texte :
 
-<img  class="GG" src="https://raw.githubusercontent.com/t-isaac/test-website-repo-3796/main/images/AachenMainStationInsideViewHDR.jpg" alt="Intérieur de la gare d'Aachen" title="Titre">
+<img  class="DNF" src="https://raw.githubusercontent.com/t-isaac/test-website-repo-3796/main/images/AachenMainStationInsideViewHDR.jpg" alt="Intérieur de la gare d'Aachen" title="Titre">
 
-![Taux de participation](https://github.com/t-isaac/test-website-repo-3796/blob/main/images/participation%20au%20cours.jpeg?raw=true)
-
-<img  class="GG" src="https://github.com/t-isaac/test-website-repo-3796/blob/main/images/participation%20au%20cours.jpeg?raw=true
+<img  class="CC" src="https://github.com/t-isaac/test-website-repo-3796/blob/main/images/participation%20au%20cours.jpeg?raw=true
 " alt="Taux de participation" title="Titre">
 
-<img  class="DD" src="https://github.com/t-isaac/test-website-repo-3796/blob/main/images/participation%20au%20cours.jpeg?raw=true
+<img  class="GNF" src="https://github.com/t-isaac/test-website-repo-3796/blob/main/images/participation%20au%20cours.jpeg?raw=true
+" alt="Taux de participation" title="Titre">
+
+<img  class="DF" src="https://github.com/t-isaac/test-website-repo-3796/blob/main/images/participation%20au%20cours.jpeg?raw=true
 " alt="Taux de participation" title="Titre">
 
 
