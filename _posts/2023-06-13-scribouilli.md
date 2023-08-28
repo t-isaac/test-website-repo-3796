@@ -48,6 +48,9 @@ Il est même prévu de pouvoir insérer des images dans son site. Un dossier a m
 
 <img  class="GG" src="https://raw.githubusercontent.com/t-isaac/test-website-repo-3796/main/images/AachenMainStationInsideViewHDR.jpg" alt="Intérieur de la gare d'Aachen" title="Titre">
 
+<img  class="GG" src="https://github.com/t-isaac/test-website-repo-3796/blob/main/images/participation%20au%20cours.jpeg?raw=true
+" alt="Taux de participation" title="Titre">
+
 Je vous laisse chercher le lien entre cette image et ce texte de blog. En parlant de lien, je dois avouer que j'ai eu un peu de mal à trouver le bon lien à insérer mais je pense que j'ai compris que ce n'est pas l'adresse que je trouve dans la barre de mon navigateur ni le permalink mais plutôt le _path_ du _Copy path_.
 
 Un jour, je me demanderai s'il est possible avec markdown de modifier la taille de l'image. Pour ce soir, on se réjouira déjà de ce que l'on a.
