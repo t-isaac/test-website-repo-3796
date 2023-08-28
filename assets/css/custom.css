@@ -37,18 +37,23 @@ header ul {
   flex-direction: row-reverse;
 }
 
-/* des classe qui permettent d'aligner à gauche, au centre ou à droite des images (a priori) */
-.GG {
+/* des classe qui permettent d'aligner à gauche, au centre ou à droite des images (a priori) avec ou sans le caractère flottant*/
+.GF {
    float: left;
-   margin-right: 5rem;
+   margin-right: 0rem;
 }
-.DD {
+.GNF {
+   text-align: left;
+}
+.DF {
    float: right;
-   margin-left: 5rem;
+   margin-left: 0rem;
+}
+.DNF {
+   text-align: right;
 }
 .CC {
-   float: center;
-   margin: 5rem;
+   text-align: center;
 }
 
 
