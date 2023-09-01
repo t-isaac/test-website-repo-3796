@@ -39,10 +39,8 @@ header ul {
 
 header a[href~="images"] {
    display: block;
-   background-image: url(https://raw.githubusercontent.com/t-isaac/test-website-repo-3796/a941870dad169f45546a11627b81e7aa254f52e1/images/dessin.png);
-   background-repeat: no-repeat;
-   background-position: left center;
-   background-size: 20%;
+   width: 10rem;
+   background-color: pink; 
 }
 
 
