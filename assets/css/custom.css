@@ -42,7 +42,8 @@ header a[href~="images"] {
    background-image: url(https://raw.githubusercontent.com/t-isaac/test-website-repo-3796/a941870dad169f45546a11627b81e7aa254f52e1/images/dessin.png);
    background-repeat: no-repeat;
    background-position: left center;
-   background-size: contain;}
+   background-size: 20%;
+}
 
 
 /* des classe qui permettent d'aligner à gauche, au centre ou à droite des images (a priori) avec ou sans le caractère flottant*/
