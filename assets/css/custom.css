@@ -35,7 +35,7 @@ div.container {
 /* pour inverser Accueil et Articles */
 header ul {
   flex-direction: row-reverse;
-  gap: 0rem;
+  gap: 0.3rem;
 }
 
 /* a récupérer pour logo RSS */
