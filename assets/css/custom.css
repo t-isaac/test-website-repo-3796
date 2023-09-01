@@ -40,6 +40,7 @@ header ul {
 header a[href~="images"] {
    display: block;
    width: 10rem;
+   height: 10rem;
    background-color: pink; 
 }
 
