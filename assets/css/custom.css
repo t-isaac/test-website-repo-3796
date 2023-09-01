@@ -37,8 +37,8 @@ header ul {
   flex-direction: row-reverse;
 }
 
-/* header a[href~="images"] { */
-header li {
+header a[href~="images"] {
+/* header li { */
    display: block;
    width: 10rem;
    height: 10rem;
