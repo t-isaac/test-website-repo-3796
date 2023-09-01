@@ -46,9 +46,10 @@ header li {
    background-color: pink; 
 }*/
 
-/* header a[href$="/images/"] {
-  display: block;
-] */
+/* On essaie de faire disparaitre l'espace disgracieux dans le menu */
+header a[href$="/images/"] {
+  display: none;
+}
 
 /* des classe qui permettent d'aligner à gauche, au centre ou à droite des images (a priori) avec ou sans le caractère flottant*/
 .GF {
