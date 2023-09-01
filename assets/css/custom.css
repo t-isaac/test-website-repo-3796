@@ -38,7 +38,7 @@ header ul {
 }
 
 /* header a[href~="images"] { */
-header li
+header li {
    display: block;
    width: 10rem;
    height: 10rem;
