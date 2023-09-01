@@ -38,7 +38,8 @@ header ul {
 }
 
 header a[href~="images"] {
-   display: none;
+   display: block;
+   background-color: pink;
 }
 
 
