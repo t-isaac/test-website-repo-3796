@@ -37,14 +37,18 @@ header ul {
   flex-direction: row-reverse;
 }
 
-header a[href$="/images/"] {
-/* header li { */
+/* a récupérer pour logo RSS */
+/* header a[href$="/images/"] {
+header li { 
    display: block;
    width: 10rem;
    height: 10rem;
    background-color: pink; 
-}
+}*/
 
+/* header a[href$="/images/"] {
+  display: block;
+] */
 
 /* des classe qui permettent d'aligner à gauche, au centre ou à droite des images (a priori) avec ou sans le caractère flottant*/
 .GF {
