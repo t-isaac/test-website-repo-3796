@@ -9,26 +9,26 @@ svg {
 }
 
 /* Le "logo" */
-div.container {
+header div.container {
    background-image: url(https://github.com/t-isaac/test-website-repo-3796/raw/main/images/logo.avif);
    background-repeat: no-repeat;
    background-position: left center;
    background-size: contain;
 }
 @media only screen and (max-width:430px) {
-  div.container{
+header div.container{
       background-size: 40%; }
 }
 @media only screen and (max-width:300px) and (min-width:270px) {
-  div.container{
+header div.container{
       background-size: 35%; }
 }
 @media only screen and (max-width:270px) and (min-width:250px) {
-  div.container{
+header div.container{
       background-size: 30%; }
 }
 @media only screen and (max-width:250px) and (min-width:230px) {
-  div.container{
+header div.container{
       background-size: 25%; }
 }
 
